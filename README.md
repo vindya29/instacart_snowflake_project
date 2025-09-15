@@ -46,8 +46,3 @@ This project integrates **Snowflake** as the data warehouse and **Tableau** for 
 
 ---
 
-## 🚀 How to Use
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/your-username/instacart-dashboard.git
-   cd instacart-dashboard
